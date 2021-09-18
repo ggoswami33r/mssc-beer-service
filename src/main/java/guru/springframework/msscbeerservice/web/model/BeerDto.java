@@ -46,4 +46,6 @@ public class BeerDto {
 
     private Integer quantityOnHand;
 
+    private Integer age;
+
 }
