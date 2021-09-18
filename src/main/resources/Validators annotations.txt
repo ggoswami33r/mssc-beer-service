@@ -1,0 +1,50 @@
+@Null
+@NotNull
+@AssertTrue/False
+@Min
+@Max
+
+@DecimalMin
+@DecimalMax
+@Negative
+@NegativeOrZero
+@Positive
+@PositiveOrZero
+@Size
+
+@Digits
+@Past
+@PastOrPresent
+@Future
+@FutureOrPresent
+@Pattern
+
+@NotEmpty
+@NonBlank
+@Email
+
+@ScriptAssert
+@CreditCardNumber
+@Currency
+@DurationMax
+@DurationMin
+@EAN  (Valid EAN barcode)
+@ISBN (Valid ISBN value)
+
+@Length
+@CodePointLength
+@LuhnCheck
+@Mod10Check
+@Mod11Check
+
+@Range
+@SafeHtml
+@UniqueElements
+@Url
+
+@CNPJ - Brazilian Corporate Tax Payer Registry number
+@CPF -- Brazilian  Individual Tax Payer Number
+@TituloEleitoral -- Brazilian voter ID
+@NIP- Polish VAR Id
+@PESEL - Polish National Validation Number
+@REGON - Polish Taxpayer ID
